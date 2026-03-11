@@ -10,6 +10,6 @@ O arquivo `typescript-joao-faccio.ts` contém 10 funções e interfaces que cobr
 * Union Types;
 * Tipagem de componentes e funções (void).
 
-## 🛠️ Como rodar a validação
+## Como rodar a validação
 Caso deseje validar a tipagem, utilize o comando:
 `npx tsc --noEmit`
